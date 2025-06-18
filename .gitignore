@@ -192,3 +192,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# Extra folders not required right now
+frontend
+hooks
+img
+scripts
+.idea
+.github
+*.md
+LICENSE
+.vscode
+.copier
